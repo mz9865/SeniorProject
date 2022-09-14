@@ -1,0 +1,35 @@
+html *
+{
+  font-family: 'Open Sans', sans-serif;
+  background-color: #80D39B;
+}
+
+header {
+  text-align: center;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+.team-info {
+  margin-left: 5%;
+  margin-top: 3%;
+}
+
+.project-info, .dev-method {
+  margin-left: 5%;
+  margin-top: 2%;
+  margin-right: 5%;
+}
+
+td, th {
+  border: 1px solid;
+  text-align: center;
+  padding: 8px;
+}
+
+.tracker-table {
+  margin-left: 20%;
+  margin-top: 3%;
+}
