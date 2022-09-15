@@ -33,3 +33,20 @@ td, th {
   margin-left: 20%;
   margin-top: 3%;
 }
+
+.domain-model {
+  /* width: 40%; */
+  margin-top: 10%;
+  margin-left: 52%;
+}
+
+.domain-model-img {
+  width: 100%;
+  margin-left: -51%;
+}
+
+.metrics {
+  margin-left: 5%;
+  margin-top: 5%;
+  margin-right: 5%;
+}
